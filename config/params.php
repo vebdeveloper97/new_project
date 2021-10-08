@@ -1,7 +1,8 @@
 <?php
 $params = [
     'layout' => 'index',
-    'view'   => 'index',
-    'dir'    => 'site',
+    'action'   => 'index',
+    'controller'    => 'site',
+    'module' => '',
     'id'     => 0
 ];

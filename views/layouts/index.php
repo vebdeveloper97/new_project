@@ -118,7 +118,7 @@
         </div>
         <div class="content_area">
             <?php
-                include_once BaseUrl."/views/{$params['dir']}/{$params['view']}.php";
+                include_once BaseUrl."/views/{$params['controller']}/{$params['action']}.php";
             ?>
         </div>
         <div class="footer_bottom_area">

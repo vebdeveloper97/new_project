@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a433526-69b4-4718-af63-dd2fa27b70b5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/views/layouts/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/big/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/big/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/custom-select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/logo-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/logo-light-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/logo-light-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/logo-text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/images/users/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/assets/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/colors/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/icons/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/icons/font-awesome/old/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/bootstrap-switch.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/breadcrumb-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/card-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/chat-app-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/contact-app-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/dashboard1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/easy-pie-chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/error-pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/file-upload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/float-chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/floating-label.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/footable-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/form-icheck.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/form-pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/google-vector-map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/icon-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/inbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/login-register-lock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/other-pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/perfect-scrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/pricing-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/progressbar-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/ribbon-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/stylish-tooltip.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/tab-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/table-pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/timeline-vertical-horizontal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/ui-bootstrap-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/user-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/pages/widget-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/spinners.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/dashboard1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/flot-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/jquery.slimscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/perfect-scrollbar.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/sidebarmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/js/waves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/colors/default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/fonts/fontawesome-webfont-old.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/extras.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/spinning.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_extras.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_spinning.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/old/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/icons/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/bootstrap-switch.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/breadcrumb-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/button-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/card-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/chat-app-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/contact-app-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/dashboard1.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/easy-pie-chart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/error-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/file-upload.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/float-chart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/floating-label.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/footable-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/form-icheck.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/form-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/google-vector-map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/icon-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/other-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/perfect-scrollbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/pricing-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/stylish-tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/pages/table-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/variable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/comment.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/common-widget.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/feed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/msg-box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/profile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/topbar-mail.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/web/scss/widgets/widgets.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/params.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/params.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routers.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/config/config.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1zETR4TBGNkiRmWNxb6n9b9J05D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin/web/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin/web/assets" />
+      <recent name="$PROJECT_DIR$/admin/web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin/views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a433526-69b4-4718-af63-dd2fa27b70b5" name="Changes" comment="" />
+      <created>1633712236239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633712236239</updated>
+      <workItem from="1633712237419" duration="6619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
